@@ -72,9 +72,10 @@
     line-height: 125%;
     color: #FFFFFF;
 }
-button :hover {
-    background: #221f1e;
-}
+.button1:hover {
+    background-color: #F78065;
+    color: rgba(236, 136, 22, 0.555);
+  }
 .mg-img {
     margin-right:8px ;
 }
